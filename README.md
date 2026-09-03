@@ -25,3 +25,4 @@ Sistema interno de gerenciamento de chamados para empresas.
 ## 👨‍💻 Autora
 
 Soraya Almeida
+.
