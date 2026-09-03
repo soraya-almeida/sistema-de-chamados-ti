@@ -1,6 +1,7 @@
 # 🖥️sistema-de-chamados-ti
 Sistema interno de gerenciamento de chamados para empresas.
 
+<img src="telainicialdoprojeto.png" width="800">
 ## 🚀 Funcionalidades
 
 - Cadastro e login de usuários
@@ -21,6 +22,6 @@ Sistema interno de gerenciamento de chamados para empresas.
 - JavaScript
 - SQLite/PostgreSQL
 
-## 👨‍💻 Autor
+## 👨‍💻 Autora
 
 Soraya Almeida
